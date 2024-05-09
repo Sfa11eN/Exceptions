@@ -1,4 +1,4 @@
-package ru.skypro.calculatorwebapp.service;
+package ru.skypro.Calculatorapp.service;
 
 public interface CalculatorService {
     int sum(int num1,int num2);
